@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="company/adobe"/>
+	<classpathentry kind="src" path="company/airbnb"/>
+	<classpathentry kind="src" path="company/amazon"/>
+	<classpathentry kind="src" path="company/apple"/>
+	<classpathentry kind="src" path="company/bloomberg"/>
+	<classpathentry kind="src" path="company/facebook"/>
+	<classpathentry kind="src" path="company/google"/>
+	<classpathentry kind="src" path="company/linkedin"/>
+	<classpathentry kind="src" path="company/microsoft"/>
+	<classpathentry kind="src" path="company/palantir"/>
+	<classpathentry kind="src" path="company/snapchat"/>
+	<classpathentry kind="src" path="company/twitter"/>
+	<classpathentry kind="src" path="company/uber"/>
+	<classpathentry kind="src" path="company/yahoo"/>
+	<classpathentry kind="src" path="company/yelp"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-five-bit-manipulation"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-four-trees-and-graphs"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-nine-recursion-and-dynamic-programming"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-one-arrays-and-strings"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-seven-mathematics-and-probability"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-three-stacks-and-queues"/>
+	<classpathentry kind="src" path="cracking-the-coding-interview/chapter-two-linked-lists"/>
+	<classpathentry kind="src" path="leetcode/array"/>
+	<classpathentry kind="src" path="leetcode/backtracking"/>
+	<classpathentry kind="src" path="leetcode/binary-search"/>
+	<classpathentry kind="src" path="leetcode/bit-manipulation"/>
+	<classpathentry kind="src" path="leetcode/brainteaser"/>
+	<classpathentry kind="src" path="leetcode/breadth-first-search"/>
+	<classpathentry kind="src" path="leetcode/depth-first-search"/>
+	<classpathentry kind="src" path="leetcode/design"/>
+	<classpathentry kind="src" path="leetcode/divide-and-conquer"/>
+	<classpathentry kind="src" path="leetcode/dynamic-programming"/>
+	<classpathentry kind="src" path="leetcode/greedy"/>
+	<classpathentry kind="src" path="leetcode/hash-table"/>
+	<classpathentry kind="src" path="leetcode/linked-list"/>
+	<classpathentry kind="src" path="leetcode/math"/>
+	<classpathentry kind="src" path="leetcode/queue"/>
+	<classpathentry kind="src" path="leetcode/sort"/>
+	<classpathentry kind="src" path="leetcode/stack"/>
+	<classpathentry kind="src" path="leetcode/string"/>
+	<classpathentry kind="src" path="leetcode/tree"/>
+	<classpathentry kind="src" path="leetcode/trie"/>
+	<classpathentry kind="src" path="leetcode/two-pointers"/>
+	<classpathentry kind="src" path="uva"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
